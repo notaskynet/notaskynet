@@ -18,3 +18,5 @@
 - Numpy/Pandas etcю
 
 ## My Projects
+
+📚 **Algebra workbook.** Project from university practice. Developed methods for automatic problem solving (Matrices, Multimembered)
