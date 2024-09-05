@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Daniel 👋
 
-<!--
-**notaskynet/notaskynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
 
-Here are some ideas to get you started:
+- 🌱 Studying at HSE MIEM (Computer Security)
+- 😄 Interested in mathematics and deep learning
+- 🔭 Will be happy to participate in interesting projects
+- 📫 How to reach me sprv-4@yandex.ru
+  
+## Technical Skills
+- Python
+- SQL
+- Numpy/Pandas etcю
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
