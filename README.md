@@ -1,10 +1,11 @@
 ## Hi, I'm Daniel 👋
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=notaskynet&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=notaskynet&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/notaskynet/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaskynet&layout=compact"/></a>
+</p>
 
 - 🌱 Studying at HSE MIEM (Computer Security)
 - 😄 Interested in mathematics and deep learning
