@@ -4,7 +4,7 @@ doing ml
   
 contact me:
 - <a href="https://t.me/daspiridonov">telegram: @daspiridonov</a>
-- <a href="mailto:sprv-4@yandex.ru">mail: sprv-4@yandex.ru</a>
+- <a href="mailto:daspirodonov4@gmail.com">mail: daspirodonov4@gmail.com</a>
 - <a href="https://www.linkedin.com/in/daniel-spiridonov/">linkedin: daniel-spiridonov</a>
 
 resume:
